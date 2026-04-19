@@ -3,8 +3,8 @@
         title="BetterGrayscale" alt="BetterGrayscale logo" width="120" />
     <h1>BetterGrayscale</h1>
     <p>
-        A Firefox add-on that allows you to check and analyze value structure of images and videos
+        Check and analyze value structure of images, videos, and GIFs
         <br>
-        by emulating Photoshop's working gray - dot gain 20% proof color.
+        by emulating the working gray (dot gain 20%) profile found in Photoshop.
     </p>
 </div>
