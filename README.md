@@ -3,8 +3,8 @@
         title="BetterGrayscale" alt="BetterGrayscale logo" width="120" />
     <h1>BetterGrayscale</h1>
     <p>
-        Check and analyze value structure of images, videos, and GIFs
+        Check and analyze value structure of images, videos, and GIFs by
         <br>
-        by emulating the working gray (dot gain 20%) profile found in Photoshop.
+        emulating the working gray (dot gain 20%) profile found in Photoshop.
     </p>
 </div>
