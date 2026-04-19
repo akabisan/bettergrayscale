@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="icon-color.png"
+    <img src="icon-gray.png"
         title="BetterGrayscale" alt="BetterGrayscale logo" width="120" />
     <h1>BetterGrayscale</h1>
     <p>
